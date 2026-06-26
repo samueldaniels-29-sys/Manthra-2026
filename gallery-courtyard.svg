@@ -1,0 +1,26 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Photograph-style illustration of the haveli's open courtyard with a fountain">
+  <rect width="400" height="300" fill="#F4EEE2"/>
+  <rect x="0" y="0" width="400" height="120" fill="#C97F4B"/>
+  <rect x="0" y="0" width="400" height="120" fill="#A8602F" opacity="0.2"/>
+  <g fill="#181729">
+    <rect x="30" y="20" width="40" height="60" rx="3"/>
+    <rect x="100" y="20" width="40" height="60" rx="3"/>
+    <rect x="260" y="20" width="40" height="60" rx="3"/>
+    <rect x="330" y="20" width="40" height="60" rx="3"/>
+  </g>
+  <g fill="#D4AF6A">
+    <circle cx="40" cy="35" r="2.5"/><circle cx="50" cy="35" r="2.5"/><circle cx="60" cy="35" r="2.5"/>
+    <circle cx="40" cy="50" r="2.5"/><circle cx="50" cy="50" r="2.5"/><circle cx="60" cy="50" r="2.5"/>
+    <circle cx="40" cy="65" r="2.5"/><circle cx="50" cy="65" r="2.5"/><circle cx="60" cy="65" r="2.5"/>
+    <circle cx="110" cy="35" r="2.5"/><circle cx="120" cy="35" r="2.5"/><circle cx="130" cy="35" r="2.5"/>
+    <circle cx="110" cy="50" r="2.5"/><circle cx="120" cy="50" r="2.5"/><circle cx="130" cy="50" r="2.5"/>
+    <circle cx="110" cy="65" r="2.5"/><circle cx="120" cy="65" r="2.5"/><circle cx="130" cy="65" r="2.5"/>
+  </g>
+  <rect x="0" y="120" width="400" height="180" fill="#E9E0CC"/>
+  <ellipse cx="200" cy="220" rx="70" ry="40" fill="#7FA9C9"/>
+  <ellipse cx="200" cy="220" rx="70" ry="40" fill="#3F6E8C" opacity="0.25"/>
+  <circle cx="200" cy="220" r="10" fill="#D4AF6A"/>
+  <path d="M200 210 L200 195 M195 200 L185 190 M205 200 L215 190" stroke="#FBF8F2" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="80" cy="250" r="22" fill="#7E9A5E"/>
+  <circle cx="320" cy="250" r="22" fill="#7E9A5E"/>
+</svg>

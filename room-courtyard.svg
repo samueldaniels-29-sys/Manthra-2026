@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of the Courtyard Room with French doors opening onto a green courtyard">
+  <rect width="400" height="240" fill="#F4EEE2"/>
+  <rect x="0" y="180" width="400" height="60" fill="#E9E0CC"/>
+  <!-- doors open to courtyard -->
+  <rect x="230" y="30" width="140" height="150" fill="#9CB07B"/>
+  <rect x="230" y="30" width="140" height="150" fill="#6B5B73" opacity="0.12"/>
+  <rect x="230" y="30" width="60" height="150" fill="#2B2A45" opacity="0.18"/>
+  <circle cx="320" cy="80" r="22" fill="#7E9A5E"/>
+  <circle cx="345" cy="100" r="16" fill="#7E9A5E"/>
+  <rect x="296" y="60" width="8" height="120" fill="#A8602F"/>
+  <rect x="226" y="26" width="8" height="158" fill="#A8602F"/>
+  <rect x="366" y="26" width="8" height="158" fill="#A8602F"/>
+  <!-- bed -->
+  <rect x="30" y="160" width="170" height="18" rx="4" fill="#A8602F"/>
+  <rect x="30" y="112" width="170" height="50" rx="6" fill="#C97F4B"/>
+  <rect x="20" y="100" width="14" height="80" rx="3" fill="#A8602F"/>
+  <rect x="40" y="118" width="70" height="34" rx="4" fill="#FBF8F2"/>
+  <!-- potted plant -->
+  <rect x="200" y="190" width="22" height="20" fill="#A8602F"/>
+  <circle cx="211" cy="178" r="18" fill="#7E9A5E"/>
+</svg>

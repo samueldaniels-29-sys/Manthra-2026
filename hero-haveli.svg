@@ -1,0 +1,62 @@
+<svg viewBox="0 0 560 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of Hotel Saffron Haveli facade at dusk with lit brass lanterns">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2B2A45"/>
+      <stop offset="1" stop-color="#181729"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F4D78A" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#F4D78A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="560" height="620" fill="url(#sky)"/>
+  <!-- moon -->
+  <circle cx="460" cy="80" r="26" fill="#F4EEE2" opacity="0.85"/>
+  <!-- haveli base block -->
+  <rect x="60" y="260" width="440" height="300" fill="#C97F4B"/>
+  <rect x="60" y="260" width="440" height="300" fill="#A8602F" opacity="0.25"/>
+  <!-- domes -->
+  <path d="M150 260 q0 -60 50 -60 q50 0 50 60 z" fill="#D4AF6A"/>
+  <path d="M360 260 q0 -60 50 -60 q50 0 50 60 z" fill="#D4AF6A"/>
+  <rect x="195" y="178" width="10" height="26" fill="#D4AF6A"/>
+  <rect x="405" y="178" width="10" height="26" fill="#D4AF6A"/>
+  <!-- central arch entrance -->
+  <path d="M240 560 V400 q0 -60 60 -60 q60 0 60 60 v160 z" fill="#181729"/>
+  <path d="M252 560 V408 q0 -48 48 -48 q48 0 48 48 v152 z" fill="#2B2A45"/>
+  <circle cx="300" cy="500" r="3" fill="#D4AF6A"/>
+  <!-- jali lattice windows -->
+  <g fill="#181729">
+    <rect x="95" y="320" width="70" height="90" rx="4"/>
+    <rect x="395" y="320" width="70" height="90" rx="4"/>
+  </g>
+  <g fill="#D4AF6A" opacity="0.85">
+    <circle cx="110" cy="335" r="3"/><circle cx="130" cy="335" r="3"/><circle cx="150" cy="335" r="3"/>
+    <circle cx="110" cy="355" r="3"/><circle cx="130" cy="355" r="3"/><circle cx="150" cy="355" r="3"/>
+    <circle cx="110" cy="375" r="3"/><circle cx="130" cy="375" r="3"/><circle cx="150" cy="375" r="3"/>
+    <circle cx="110" cy="395" r="3"/><circle cx="130" cy="395" r="3"/><circle cx="150" cy="395" r="3"/>
+    <circle cx="410" cy="335" r="3"/><circle cx="430" cy="335" r="3"/><circle cx="450" cy="335" r="3"/>
+    <circle cx="410" cy="355" r="3"/><circle cx="430" cy="355" r="3"/><circle cx="450" cy="355" r="3"/>
+    <circle cx="410" cy="375" r="3"/><circle cx="430" cy="375" r="3"/><circle cx="450" cy="375" r="3"/>
+    <circle cx="410" cy="395" r="3"/><circle cx="430" cy="395" r="3"/><circle cx="450" cy="395" r="3"/>
+  </g>
+  <!-- side balcony arches -->
+  <g fill="#F4EEE2" opacity="0.9">
+    <path d="M90 300 q0 -22 22 -22 q22 0 22 22 v10 h-44z"/>
+    <path d="M180 300 q0 -22 22 -22 q22 0 22 22 v10 h-44z"/>
+    <path d="M340 300 q0 -22 22 -22 q22 0 22 22 v10 h-44z"/>
+    <path d="M430 300 q0 -22 22 -22 q22 0 22 22 v10 h-44z"/>
+  </g>
+  <!-- lanterns + glow -->
+  <circle cx="160" cy="430" r="40" fill="url(#glow)"/>
+  <circle cx="440" cy="430" r="40" fill="url(#glow)"/>
+  <rect x="156" y="420" width="8" height="14" rx="2" fill="#D4AF6A"/>
+  <rect x="436" y="420" width="8" height="14" rx="2" fill="#D4AF6A"/>
+  <!-- water / lake reflection -->
+  <rect x="0" y="560" width="560" height="60" fill="#181729"/>
+  <rect x="0" y="560" width="560" height="60" fill="url(#glow)" opacity="0.18"/>
+  <g stroke="#D4AF6A" stroke-opacity="0.35" stroke-width="2">
+    <line x1="60" y1="585" x2="180" y2="585"/>
+    <line x1="380" y1="600" x2="500" y2="600"/>
+    <line x1="220" y1="595" x2="320" y2="595"/>
+  </g>
+</svg>
